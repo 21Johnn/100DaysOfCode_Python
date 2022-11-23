@@ -2,7 +2,7 @@
 
 This repository was created to save my 100 days of code exercises.
 
-Each day, will be in diferent branchs,nominated whit his respective numbers, ex: Day 1 (Hello World).
+Each day, will be in diferent branchs,nominated whith his respective numbers, ex: Day 1 (Hello World).
 
 
 
